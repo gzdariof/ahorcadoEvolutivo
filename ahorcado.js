@@ -1,6 +1,6 @@
 'use strict';
  
-let palabra = "AHORCADO";
+let palabra = "MARIPOSA";
 let palabraOculta = "";
 let intentos = 6;
 
